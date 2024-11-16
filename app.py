@@ -1,7 +1,7 @@
 import pandas as pd
 # Load your data and save it as a pickle file
-data = pd.read_excel("etherum.xlsx", parse_dates=['Date'])
-data.to_pickle("data.pkl")
+# data = pd.read_excel("etherum.xlsx", parse_dates=['Date'])
+# data.to_pickle("data.pkl")
 
 
 import pandas as pd
