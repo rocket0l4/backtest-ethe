@@ -1,7 +1,9 @@
 import pandas as pd
 # data = pd.read_excel('etherum.xlsx')
 import numpy as np
-import plotly.graph_objects as go
+# import plotly.graph_objects as go
+import plotly as p
+go = p.graph_objects
 import streamlit as st
 import pickle
 
