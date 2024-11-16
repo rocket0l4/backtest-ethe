@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import pickle
+import plotly.graph_objects as go
 
 # Load your data and save it as a pickle file
 import pandas as pd
